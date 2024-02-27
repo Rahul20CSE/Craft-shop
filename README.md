@@ -1,4 +1,14 @@
 # Kalakriti - An E-Commerce for Artisans
+![Screenshot 2024-02-19 004608](https://github.com/Rahul20CSE/Craft-shop/assets/157194578/4f1c31a2-8ee2-418e-aec9-295df1a74eb0)
+![Screenshot 2024-02-19 004723](https://github.com/Rahul20CSE/Craft-shop/assets/157194578/4bc84e3e-b155-4390-a940-75c5c4caa9bc)
+![Screenshot 2024-02-19 004833](https://github.com/Rahul20CSE/Craft-shop/assets/157194578/eab3a551-efcb-4f51-98ec-49f211df2109)
+![Screenshot 2024-02-19 004920](https://github.com/Rahul20CSE/Craft-shop/assets/157194578/6039937c-15ae-48f6-97dd-af77ee83135e)
+![Screenshot 2024-02-19 005014](https://github.com/Rahul20CSE/Craft-shop/assets/157194578/3b324902-c683-455f-8073-808e2bb7b8d0)
+![Screenshot 2024-02-19 005044](https://github.com/Rahul20CSE/Craft-shop/assets/157194578/1154653a-6984-438d-81a7-b30
+![Screenshot 2024-02-19 005145](https://github.com/Rahul20CSE/Craft-shop/assets/157194578/a2cd2540-c1f5-4a5d-9505-90b40e3a6b5a)
+4af25a5b0)
+![Screenshot 2024-02-19 005259](https://github.com/Rahul20CSE/Craft-shop/assets/157194578/f78edb5e-b381-44ce-9301-5f6419a9a177)
+
 
 Welcome to the ShopKalakriti.live GitHub repository for the MERN e-commerce project! This repository contains the source code and assets for the ShopKalakriti.live website, built using the MERN stack.
 
